@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#caixa{
+    width: 600px;
+    height: 830px;
+    background-color: rgb(204, 204, 204);
+    margin: 0 auto;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 10px;
+
+}
+
+#informacoes_topo{
+    width: 600px;
+    height: 120px;
+    background-color: gray;   
+    border-radius: 5px 5px 5px 5px ;
+}
+
+#nome_topo{
+    
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 10px;
+    padding-top: 60px;
+}
+#quadrado_nome{
+    width: 250px;
+    height: 60px;
+    background-color: white;
+    margin-top: 30px;
+}
+
+#info_esquerdo{
+    font-size: 12px;
+    margin-right: 20px;
+    margin-top: -95px;
+    text-align: right;
+    font-family: 'roboto', 'sans-serif';
+    font-weight: bold;
+}
+
+#minha_foto{
+    width: 200px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 5px 5px 5px 5px;
+
+
+}
+
+#img_python{
+    width: 160px;
+    margin-left: -180px;
+    margin-top: 320px;
+    position: absolute;
+}
+
+#nome_embaixo_imagem_python{
+    position: absolute;
+    font-family: 'roboto', 'sans-serif';
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 60px;
+    margin-top: 210px;
+}
+
+#ling{
+    margin-left: 30px;
+    margin-top: 280px;
+    position: absolute;
+    font-family: 'roboto', 'sans-serif';
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+#cobrinha{
+    width: 20px;
+    margin-left: 190px;
+    margin-top: 10px;
+}
+
+#inf{
+    width: 340px;
+    height: 555px;
+    background-color: aliceblue;
+    margin-left: 250px;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 2px;
+}
+
+#objetivo{
+    margin-left: 20px;
+    margin-top: -257px;
+    font-family: 'roboto', 'sans-serif';
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+#link_python{
+    margin-left: 220px;
+    margin-top: 10px;
+    position: absolute;
+
+}
+#tex_objetivo{
+    font-family: 'roboto', 'sans-serif';
+    margin-left: 20px;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+#formacao{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-family: 'roboto', 'sans-serif';
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+#text_formacao{
+    font-family: 'roboto', 'sans-serif';
+    margin-left: 20px;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+#exp{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-family: 'roboto', 'sans-serif';
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+#text_exp{
+    font-family: 'roboto', 'sans-serif';
+    margin-left: 20px;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+#cursos{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-family: 'roboto', 'sans-serif';
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+#text_cursos{
+    font-family: 'roboto', 'sans-serif';
+    margin-left: 20px;
+    margin-top: -30px;
+    font-size: 14px;
+}
+
+#contatos{
+    width: 600px;
+    height: 120px;
+    background-color: gray;
+    margin-top: 25px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#contatos_final{
+    font-family: 'roboto', 'sans-serif';
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 230px;
+}
+
+#gmail{
+    width: 70px;
+    margin-left: 90px;
+
+    
+
+}
+
+#linkedin{
+    width: 58px;
+    margin-left: 105px;
+    margin-bottom: 5px;
+
+}
+
+#github{
+    width: 58px;
+    margin-left: 110px;
+    margin-bottom: 5px;
+}
+
+#tex_gmail{
+    margin-left: 100px;
+    margin-top: -20px;
+    font-family: 'roboto', 'sans-serif';
+    font-weight: bold;
+}
+
+#tex_linkedin{
+    margin-left: 265px;
+    margin-top: -20px;
+    font-family: 'roboto', 'sans-serif';
+    font-weight: bold;
+}
+
+#tex_github{
+    margin-left: 445px;
+    margin-top: -20px;
+    font-family: 'roboto', 'sans-serif';
+    font-weight: bold;
+}
